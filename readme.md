@@ -1,3 +1,4 @@
+# Journey Blockchain
 # Pengertian Blockchain
 blockchain adalah sebuah block yang berfungsi untuk menyimpan data / mencatat data dan transaksi digital. setiap block akan divalidasi.
 Semua data terdesentralisasi sehingga tidak bisa di edit atau mengubah data. Semua data trasaksi akan tercatat di blockchain, dan setiap transaksi akan dikelompokkan sebagai block block.
