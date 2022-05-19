@@ -15,3 +15,7 @@ sebuah nomor untuk mengatur agar para miner harus melakukan pemecahan algoritma 
 
 NONCE > TO > VALUE > GAS PRICE > START / GAS LIMIT > v r s 
 v r s adalah untuk menggenerate sender account address. di generate dari private key pengirim. Karena ini lah untuk menverifikasi jika transaksi itu sah atau tidak.,
+
+
+## Blockchain berkerja
+pada saat satu block ada perubahan, maka block tersebut harus di mining lagi / di validasi lagi, dan block didepannya juga harus di validasi lagi
